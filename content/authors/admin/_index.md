@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: José Fernando Guarín M.
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Profesor área de lechería
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Universidad de Antioquia
+  url: https://www.udea.edu.co/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Ph.D. en Ciencias Lecheras de la Universidad de Wisconsin-Madison, Maestría en Agronomía Universidade de São Paulo y Zootecnista de la Universidad de Antioquia. Profesor en el área de lechería especializada de la Universidad de Antioquia, Medellín, Colombia. Experiencia en Ciencias Animales con énfasis en la calidad de la leche, nutrición y reproducción animal. Las principales áreas de experticia son la epidemiología de la mastitis, la biotecnología de la reproducción, la nutrición animal y la agroindustria..
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Inteligencia Artificial
+- Ciencias Lecheras
+- Nutrición Animal
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Dairy Science
+    institution: University of Wisconsin
+    year: 2016
+  - course: MSci in Agronomia
+    institution: Universidad de Sao Paulo
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BSc in Animal Science (zootecnia)
+    institution: Universidad de Antioquia
+    year: 2003
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
