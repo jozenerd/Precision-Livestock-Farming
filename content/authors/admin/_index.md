@@ -70,8 +70,5 @@ email: "precisionlivestockfarming@gmail.com "
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Ph.D. en Ciencias Lecheras de la Universidad de Wisconsin-Madison, Maestría en Agronomía Universidade de São Paulo y Zootecnista de la Universidad de Antioquia. Profesor en el área de lechería especializada de la Universidad de Antioquia, Medellín, Colombia. Experiencia en Ciencias Animales con énfasis en la calidad de la leche, nutrición y reproducción animal. Las principales áreas de experticia son la epidemiología de la mastitis, la biotecnología de la reproducción, la nutrición animal y la agroindustria.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
