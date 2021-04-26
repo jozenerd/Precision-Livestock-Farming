@@ -38,22 +38,22 @@ office_hours:
   - 'Miércoles 09:00 to 10:00'
 appointment_url: ''
 contact_links:
-  - icon: 
+  - icon: instagram
     icon_pack: fab
-    name: DM Me
-    link: ''
-  - icon: 
+    name: Fotos
+    link: 'instagram.com/jozenerd/'
+  - icon: linkedin
     icon_pack: fab
-    name: 
-    link: ''
-  - icon: keybase
+    name: CV
+    link: 'www.linkedin.com/in/jose-fernando-guarin-phd'
+  - icon: web
     icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
+    name: GrICA
+    link: 'http://udea.edu.co/wps/portal/udea/web/inicio/investigacion/grupos-investigacion/ciencias-agricolas/grica/'
   - icon: comments
     icon_pack: fas
     name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    link: ''
 
 # Site header
 
